@@ -29,8 +29,8 @@ html {
     content: '';
     position: absolute;
     background-color: #cc5f5f;
-    width: 35vw;
-    height: 35vh;
+    width: 30vw;
+    height: 30vh;
     z-index: 1;
 }
 
